@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/Desktop/新建文件夹/JDBC全套（共56集)/01.JDBC基础/源码笔记/source" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/Desktop/新建文件夹/JDBC全套（共56集)/01.JDBC基础/源码笔记/source" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Desktop/新建文件夹/JDBC全套（共56集)/01.JDBC基础/源码笔记/source/mysql-connector-java-5.1.37.zip!/mysql-connector-java-5.1.37/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="mysql-connector-java-5.1.37-bin" level="project" />
+    <orderEntry type="library" name="commons-dbutils-1.6" level="project" />
+  </component>
+</module>
